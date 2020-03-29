@@ -14,9 +14,12 @@ security an pentest stuff
 
 ##### STATIC CODE ANALYSIS
 
+  **_gitleaks_** - Audit git repos for secrets [https://github.com/zricethezav/gitleaks]
 
   **_owasp dependency check_** - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies [https://github.com/jeremylong/DependencyCheck]
   
 ##### WEB PATH/FILE FINDER
   
   **_dirsearch_** - Web path scanner [https://github.com/maurosoria/dirsearch]
+  
+  **_amass_** - In-depth Attack Surface Mapping and Asset Discovery [https://github.com/OWASP/Amass]
