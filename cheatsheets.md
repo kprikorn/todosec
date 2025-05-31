@@ -1,0 +1,14 @@
+https://cheatsheet.haax.fr/
+https://book.hacktricks.wiki/en/index.html
+https://book.hacktricks.wiki/en/index.html
+https://hacktricks.boitatech.com.br/
+https://exploit-notes.hdks.org/
+https://infra.newerasec.com/table-of-content
+https://pentestbook.six2dez.com/
+https://github.com/dwisiswant0/awesome-oneliner-bugbounty
+https://github.com/hakluke/Internal-Pentest-Playbook
+https://github.com/imran-parray/Mind-Maps
+https://portswigger.net/web-security/all-topics
+https://www.intigriti.com/researchers/hackademy
+https://www.bugcrowd.com/blog/content_audience/university/
+https://www.stationx.net/google-dorks-cheat-sheet/
