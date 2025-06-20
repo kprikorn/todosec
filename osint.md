@@ -8,6 +8,8 @@ https://github.com/The-Osint-Toolbox/Telegram-OSINT
 https://github.com/cipher387/Dorks-collections-list
 https://crt.sh/
 https://kaeferjaeger.gay/
+https://certificatedetails.com/
+https://otx.alienvault.com/indicator/domain/tesla.com
 # SEARCH
 https://search.censys.io/
 https://ya.ru/
