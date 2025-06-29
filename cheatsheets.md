@@ -12,3 +12,5 @@ https://www.bugcrowd.com/blog/content_audience/university/
 https://www.intigriti.com/researchers/hackademy
 https://www.stationx.net/google-dorks-cheat-sheet/
 https://portswigger.net/web-security/ssrf/url-validation-bypass-cheat-sheet
+https://redteam.ryanheavican.com/
+https://notes.incendium.rocks/pentesting-notes/
